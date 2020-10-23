@@ -1,0 +1,1 @@
+调用Movedown两次或三次就会连续Movedown两次或三次,调用makeinvisible同理
